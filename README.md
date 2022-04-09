@@ -1,4 +1,4 @@
-# iOS Chat App
+# Swift UI Chat App
 
 ![App Screenshots](/chatapp.png)
 
